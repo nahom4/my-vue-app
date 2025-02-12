@@ -15,7 +15,7 @@ pnpm run serve
 pnpm run build
 ```
 
-### Lints and fixes files
+
 ```
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
