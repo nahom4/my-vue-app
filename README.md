@@ -9,6 +9,3 @@ pnpm install
 ```
 pnpm run serve
 ```
-
-### Compiles and minifies for production
-```
