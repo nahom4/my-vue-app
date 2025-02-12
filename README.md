@@ -20,5 +20,5 @@ pnpm run build
 pnpm run lint
 ```
 
-### Customize configuration
+### Customize project configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
