@@ -12,8 +12,3 @@ pnpm run serve
 
 ### Compiles and minifies for production
 ```
-pnpm run build
-```
-
-
-```
