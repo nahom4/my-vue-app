@@ -1,4 +1,2 @@
-
-Another Empty
 Empty
 Empty
